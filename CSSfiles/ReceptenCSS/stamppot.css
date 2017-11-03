@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    margin:0px;
+    padding:0px;
+    background-color:#e6f2ff
+}
+
+header {
+    text-align:center;
+    color: #ff6666;
+}
+
+h2 {
+    text-align:center;
+    color:#ff6666;
+}
+
+ul {
+    padding:0px;
+    margin:0px;
+    text-align:center;
+    margin:auto;
+}
+
+li {
+    padding:5px;
+}

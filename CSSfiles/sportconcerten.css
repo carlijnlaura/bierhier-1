@@ -1,0 +1,88 @@
+html, body {
+    font-family: Roboto Slab, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.ShowcaseImage {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#headertext {
+    color:#dc6200;
+    margin-top: 10px;
+}
+
+#headertext2{
+    color:#dc6200;
+    margin-top: 30px;
+}
+
+#headertext3{
+    color:#dc6200;
+    float: right;
+    margin-top: -60px;
+    margin-right:350px;
+}
+
+.marginImage {
+    margin-top: 10px;
+}
+
+#bottomtext{
+    margin-top: 20px;
+}
+
+#bottomtext2{
+    margin-left: 400px;
+    margin-top: -60px;
+}
+
+#bottomtext3{
+    margin-left: 400px;
+    margin-top: -160px;
+}
+
+
+#handballogo{
+    margin-top:20px;
+    margin-left: -50px;
+}
+
+#karateimg{
+    margin: 0 auto;
+}
+
+footer {
+    margin-top: 10px;
+    background: #343a40!important;
+    color: #fff;
+    clear: both;
+    padding: 20px
+}
+
+footer h3 {
+    color: #fff;
+}
+
+
+.padding {
+    padding:5px;
+}
+
+.wrapper{
+    width: 1200px;
+    margin: auto;
+}
+
+
+img {
+    width: 100%;
+}
+
+.tekstkleur{
+    color:#dc6200;
+
+}

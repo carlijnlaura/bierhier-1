@@ -1,0 +1,123 @@
+<!--Code gemaakt door lukas-->
+<!--CSS Jabir en Lukas-->
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <title>Contact</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+    <link rel="stylesheet" href="CSSfiles/contact.css">
+    <meta charset="UTF-8">
+</head>
+<body>
+<div class="wrapper">
+    <header>
+        <div class="row">
+            <div class="col-md-2">
+                <img  src="img/logoroc.png">
+            </div>
+            <div class="col-md-10">
+                <img src="img/helpdesk.jpg">
+            </div>
+        </div>
+        <nav class="navbar navbar-expand-xl navbar-dark bg-dark">
+            <a class="navbar-brand" href="index.html">BierHier</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbarLg">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse" id="collapsingNavbarLg">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Concerten/BierHierO3.html">Concerten</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Sport/BierHierO4.html">Sport</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Recepten</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href=Contact.html>Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <div class="imgheader">
+            <h1 style="margin-top: 40px" id="h1">Contact Us!</h1>
+            <h3 style="margin-bottom: 50px;">Problemen of vragen? Wij zijn hier om ze te beantwoorden en op te lossen!</h3>
+        </div>
+    </header>
+
+    <div class="container">
+        <section id="routeinfo">
+            <div class="row">
+                <div class="col-md-6">
+                    <h1 style="margin-top: 10px">Routeinfo</h1>
+                    <div class="iframe">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436.063742688666!2d4.88894531580185!3d52.36926417978583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c1a915c917%3A0x7544d2ae383997e5!2sKalverstraat+123%2C+1012+PA+Amsterdam!5e0!3m2!1snl!2snl!4v1509368820136" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <h1 style="margin-top: 10px">Gegevens</h1>
+                    <div>
+                        <section id="telefoonnummers">
+                            <h1 style="margin-top: 10px">Bel ons!</h1>
+                            Lukas Leeflang: <a href="tel:111-222-3434">111-222-3434</a> <br>
+                            Jabir Mazraoui: <a href="tel:222-333-4545">222-333-4545</a> <br>
+                            Carlijn den Hartog: <a href="tel:333-444-5656">333-444-5656</a>
+                        </section>
+                        <div id="adres">
+                            <p><h1>Adres</h1>
+                            Kalverstraat 123,<br>
+                            1122 AB Amsterdam
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+    </div>
+
+
+    <div class="form">
+        <form action="/action_page.php">
+
+            <label for="voornaam">Voornaam</label>
+            <input class="form-control" type="text" id="voornaam" name="voornaam" placeholder="Je voornaam...">
+
+            <label for="achternaam">Achternaam</label>
+            <input class="form-control" type="text" id="achternaam" name="achternaam" placeholder="Je achternaam...">
+
+            <label for="land">Land</label>
+            <select class="form-control" id="land" name="land">
+                <option value="nederland">Nederland</option>
+                <option value="verenigdestaten">Verenigde Staten</option>
+                <option value="canada">Canada</option>
+            </select>
+
+            <label for="onderwerp">Onderwerp</label>
+            <textarea class="form-control" id="onderwerp" name="onderwerp" placeholder="Schrijf hier..." style="height:200px"></textarea>
+
+            <button style="margin-top: 10px; float: right; margin-bottom: 10px;" class="btn btn-primary" type="verzenden" value="Verzenden">Verzenden</button>
+
+        </form>
+    </div>
+
+
+<div class="footer" >
+    <footer>
+
+        <p>        Copyright &copy; roc-dev.com 2017<br>
+            10/10 IGN
+        </p>
+    </footer>
+</div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,52 @@
+
+img {
+    width: 100%;
+}
+
+html, body {
+    max-width: 1200px;
+    padding: 0;
+    height: 100%;
+    margin:auto;
+    width:100%;
+}
+
+h3 {
+    color: #dc6200;
+    font-size: 23px;
+}
+
+h1 {
+    color:#dc6200;
+}
+
+
+footer {
+    background: #343a40!important;
+    color: #fff;
+    clear: both;
+    padding: 20px
+}
+
+footer h3 {
+    color: #fff;
+}
+
+
+.padding {
+    padding:5px;
+}
+
+.padding2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+    .wrapper{
+        width: 1200px;
+        margin: auto;
+    }
+
+
+
