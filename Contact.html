@@ -53,7 +53,6 @@
             <h3 style="margin-bottom: 50px;">Problemen of vragen? Wij zijn hier om ze te beantwoorden en op te lossen!</h3>
         </div>
     </header>
-
     <div class="container">
         <section id="routeinfo">
             <div class="row">
@@ -63,7 +62,6 @@
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436.063742688666!2d4.88894531580185!3d52.36926417978583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c1a915c917%3A0x7544d2ae383997e5!2sKalverstraat+123%2C+1012+PA+Amsterdam!5e0!3m2!1snl!2snl!4v1509368820136" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
-
                 <div class="col-md-6">
                     <h1 style="margin-top: 10px">Gegevens</h1>
                     <div>
@@ -75,56 +73,48 @@
                             Dennis Kloosterman: <a href="tel:222-333-1241">333-444-5656</a>
                         </section>
                         <div id="adres">
-                            <p><h1>Adres</h1>
+                            <h1>Adres</h1>
                             Kalverstraat 123,<br>
                             1122 AB Amsterdam
-                            </p>
                         </div>
                     </div>
                 </div>
             </div>
-
         </section>
     </div>
-
-
     <div class="form">
-        <form action="/action_page.php">
-
+        <form action="#">
             <label for="voornaam">Voornaam</label>
             <input class="form-control" type="text" id="voornaam" name="voornaam" placeholder="Je voornaam...">
-
             <label for="achternaam">Achternaam</label>
             <input class="form-control" type="text" id="achternaam" name="achternaam" placeholder="Je achternaam...">
-
             <label for="land">Land</label>
             <select class="form-control" id="land" name="land">
                 <option value="nederland">Nederland</option>
                 <option value="verenigdestaten">Verenigde Staten</option>
                 <option value="canada">Canada</option>
             </select>
-
             <label for="onderwerp">Onderwerp</label>
             <textarea class="form-control" id="onderwerp" name="onderwerp" placeholder="Schrijf hier..." style="height:200px"></textarea>
-
-            <button style="margin-top: 10px; float: right; margin-bottom: 10px;" class="btn btn-primary" type="verzenden" value="Verzenden">Verzenden</button>
-
+            <button style="margin-top: 10px; float: right; margin-bottom: 10px;" class="btn btn-primary" type="submit" value="Verzenden">Verzenden</button>
         </form>
     </div>
     <footer class="padding">
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-2">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
+                    <li><a class="active" href="index.html">Home</a></li>
                     <li><a href="Concerten/BierHierO3.html">Concerten</a></li>
                     <li><a href="Sport/BierHierO4.html">Sport</a></li>
                     <li><a href="#">Recepten</a></li>
-                    <li><a class="active" href="Contact.html">Contact</a></li>
+                    <li><a href="Contact.html">Contact</a></li>
                     <li><a href="Overons.html">Over Ons</a></li>
                 </ul>
             </div>
-            <div id="footerctekst" class="col-md-6"><p> Copyright &copy; roc-dev.com 2017<br>10/10 IGN</p></div>
-            <div class="col-md-3"><img id="bier" src="img/bier.png" alt=""></div>
+            <div id="footerctekst" class="col-md-8">
+                <p> Copyright &copy; roc-dev.com 2017<br>10/10 IGN</p>
+            </div>
+            <div class="col-md-2"><img id="bier" src="img/bier.png" alt=""></div>
         </div>
     </footer>
 </div>
@@ -132,5 +122,4 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 </body>
-
 </html>

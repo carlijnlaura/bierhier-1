@@ -3,8 +3,8 @@
 }
 
 body {
-    margin:0px;
-    padding:0px;
+    margin:0;
+    padding:0;
 }
 
 .padding {
@@ -125,9 +125,9 @@ footer p{
     margin-top: 180px;
 }
 
-#bier{
-    width:225px;
-    height:225px;
+img#bier{
+    width: 150px;
+    height:150px;
 }
 
 #headertext {
