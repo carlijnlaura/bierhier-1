@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9d1063c-e264-4405-82f8-32a2a647d9ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/almerestad1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/almerestad2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/almerestad3.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bieb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/concert.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/contact.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logoroc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sport.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSSfiles/ReceptenCSS/burritos.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSSfiles/ReceptenCSS/spaghetti.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSSfiles/ReceptenCSS/stamppot.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSSfiles/contact.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSSfiles/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSSfiles/sportconcerten.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concerten/BierHierO3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concerten/BierHierO3a.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concerten/BierHierO3b.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concerten/BierHierO3c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concerten/BierHierO3d.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concerten/BierHierO3e.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concerten/BierHierO3f.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReceptenHTML/burritos.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReceptenHTML/spaghetti.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReceptenHTML/stamppot.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sport/BierHierO4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sport/BierHierO4a.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sport/BierHierO4b.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sport/BierHierO4c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sport/BierHierO4d.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sport/BierHierO4e.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sport/BierHierO4f.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sport/BierHierO4g.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sport/BierHierO4h.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sport/BierHierO4i.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/drums.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gitaar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/saxofoon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/trompet.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/truemusic-logo.svg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReceptenHTML/stamppot.html" afterPath="$PROJECT_DIR$/ReceptenHTML/stamppot.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -110,8 +67,8 @@
       <file leaf-file-name="stamppot.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ReceptenHTML/stamppot.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="69" lean-forward="false" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+            <state relative-caret-position="204">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -211,7 +168,6 @@
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/ReceptenHTML/burritos.html" />
         <option value="$PROJECT_DIR$/ReceptenHTML/spaghetti.html" />
-        <option value="$PROJECT_DIR$/ReceptenHTML/stamppot.html" />
         <option value="$PROJECT_DIR$/CSSfiles/css.css" />
         <option value="$PROJECT_DIR$/CSSfiles/style.css" />
         <option value="$PROJECT_DIR$/CSSfiles/contact.css" />
@@ -237,6 +193,7 @@
         <option value="$PROJECT_DIR$/Sport/BierHierO4h.html" />
         <option value="$PROJECT_DIR$/Sport/BierHierO4i.html" />
         <option value="$PROJECT_DIR$/Sport/BierHierO4.html" />
+        <option value="$PROJECT_DIR$/ReceptenHTML/stamppot.html" />
       </list>
     </option>
   </component>
@@ -384,17 +341,17 @@
       <workItem from="1509607698591" duration="4231000" />
       <workItem from="1509616923677" duration="8931000" />
       <workItem from="1509631381835" duration="4993000" />
-      <workItem from="1509693753156" duration="8490000" />
+      <workItem from="1509693753156" duration="8699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53908000" />
+    <option name="totallyTimeSpent" value="54117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -752,8 +709,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ReceptenHTML/stamppot.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="69" lean-forward="false" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+        <state relative-caret-position="204">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding />
         </state>
       </provider>
