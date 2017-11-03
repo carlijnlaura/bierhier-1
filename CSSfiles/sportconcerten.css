@@ -17,7 +17,7 @@ html, body {
 
 #headertext2{
     color:#dc6200;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 #headertext3{
@@ -85,4 +85,37 @@ img {
 .tekstkleur{
     color:#dc6200;
 
+}
+
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width:150px;
+}
+
+footer li a {
+    display: block;
+    color: rgba(255,255,255,.5);
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+footer li a.active {
+    color: white;
+}
+
+footer li a:hover:not(.active) {
+    background-color: #555;
+    color: #ffffff;
+}
+
+footer p{
+    text-align: center;
+    margin-top: 180px;
+}
+
+#bier{
+    width:225px;
+    height:225px;
 }
