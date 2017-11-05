@@ -5,50 +5,132 @@
     <link rel="stylesheet" href="../CSSfiles/ReceptenCSS/burritos.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 </head>
-
 <body>
 <div class="wrapper">
     <header>
-        <h1>Recept voor burritos</h1>
+        <div class="row">
+            <div class="col-md-2">
+                <img src="../img/logoroc.png">
+            </div>
+            <div class="col-md-10">
+                <img src="../img/ingredientenimg995x175.jpg" alt="ingredienten">
+            </div>
+        </div>
+        <nav class="navbar navbar-expand-xl navbar-dark bg-dark">
+            <a class="navbar-brand" href="../index.html">BierHier</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbarLg">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse" id="collapsingNavbarLg">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="../index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../Concerten/BierHierO3.html">Concerten</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../Sport/BierHierO4.html">Sport</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle active" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Recepten
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <a class="dropdown-item " href="recepten.html">Recepten</a>
+                            <hr>
+                            <a class="dropdown-item" href="stamppot.html">Boerenkool</a>
+                            <a class="dropdown-item active" href="burritos.html">Burritos</a>
+                            <a class="dropdown-item" href="spaghetti.html">Spaghetti</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href=../Contact.html>Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href=../Overons.html>Over Ons</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <h1 class="tekstkleur">Recept voor burritos</h1>
     </header>
-
-    <h2>Ingredienten</h2>
-
-    <ul>
-        <li>- 2 eetlepels plantaardige olie</li>
-        <li>- 1 grote rode ui, gepeld en gesnipperd</li>
-        <li>- 2-3 rode chilipepers, gesnipperd (met zaadjes als je het aandurft)</li>
-        <li>- 4 teentjes knoflook, gepeld en gehakt</li>
-        <li>- 2 theelepels gemalen komijn</li>
-        <li>- 1 theelepel gemalen koriander</li>
-        <li>- 800g mager rundergehakt</li>
-        <li>- 1 eetlepel tomatenpuree</li>
-        <li>- 250 ml runderbouillon</li>
-        <li>- 1 blikje (van 400 g) gepelde tomaten</li>
-        <li>- snufje suiker</li>
-        <li>- 1 blikje (van 400 g) kidneybonen, uitgelekt</li>
-    </ul>
-
-    <ul>
-        <h3>Voor de guacamole</h3>
-        <li>- 2 avocado's</li>
-        <li>- 1 teentje knoflook, gepeld en geraspt</li>
-        <li>- 1 rode chilipeper, gehakt</li>
-        <li>- rasp van 2 limoenen</li>
-        <li>- 1/2 bosje koriander, grof gehakt</li>
-        <li>- 1/2 theelepel gemalen komijn</li>
-        <li>- 1 eetlepel olijfolie</li>
-    </ul>
-
-    <h2>Bereidingswijze</h2>
-
-    <ul>
-        <li>- Verhit voor de vulling van de burrito's de olie in een grote koekenpan of stoofpan en voeg ui, chilipepers en knoflook toe. Bak ze in 5-6 minuten zacht en voeg de komijn en koriander toe. Draai het vuur hoger en doe het gehakt erbij. Laat het een beetje kleuren en roer om alles goed te mengen.</li>
-        <li>- Voeg tomatenpuree toe, breng op smaak met zout en peper en voeg de bouillon, tomaten en suiker toe. Laat dit 15-20 minuten bakken terwijl je de guacamole maakt. Draai het vuur laag en voeg kidneybonen toe. Doe er wat water bij als het te droog wordt, maar niet te veel.</li>
-        <li>- Snijd voor de guacamole de avocado's doormidden, verwijder de pit en lepel het vruchtvlees eruit. Voeg het knoflook, rode chilipeper en limoenrasp toe. Prak met de achterkant van een vork de avocado tot een grove puree. Voeg de verse koriander en gemalen komijn toe, breng op smaak en voeg de olijfolie toe. Roer en zet apart. Je kunt dit ook in de blender doen.</li>
-        <li>- Serveer het gehakt met warme tortilla's, guacamole, salsa, zure room, geraspte kaas en jalapeñopepers.</li>
-    </ul>
+    <section class="recept">
+        <article class="ingredienten">
+            <h2 class="tekstkleur">Ingredienten</h2>
+            <article class="burritofoto"><img class="imgburritos" src="../img/burrito%20400x267.jpg" alt="burritos"></article>
+            <ul>
+                <li>- 2 eetlepels plantaardige olie</li>
+                <li>- 1 grote rode ui, gepeld en gesnipperd</li>
+                <li>- 2-3 rode chilipepers, gesnipperd (met zaadjes als je het aandurft)</li>
+                <li>- 4 teentjes knoflook, gepeld en gehakt</li>
+                <li>- 2 theelepels gemalen komijn</li>
+                <li>- 1 theelepel gemalen koriander</li>
+                <li>- 800g mager rundergehakt</li>
+                <li>- 1 eetlepel tomatenpuree</li>
+                <li>- 250 ml runderbouillon</li>
+                <li>- 1 blikje (van 400 g) gepelde tomaten</li>
+                <li>- snufje suiker</li>
+                <li>- 1 blikje (van 400 g) kidneybonen, uitgelekt</li>
+            </ul>
+        </article>
+        <article class="quacamole">
+            <h4 class="tekstkleur">Voor de guacamole</h4>
+            <ul>
+                <li>- 2 avocado's</li>
+                <li>- 1 teentje knoflook, gepeld en geraspt</li>
+                <li>- 1 rode chilipeper, gehakt</li>
+                <li>- rasp van 2 limoenen</li>
+                <li>- 1/2 bosje koriander, grof gehakt</li>
+                <li>- 1/2 theelepel gemalen komijn</li>
+                <li>- 1 eetlepel olijfolie</li>
+            </ul>
+        </article>
+    </section>
+    <article class="bereidingwijze">
+        <h2 class="tekstkleur">Bereidingswijze</h2>
+        <ul>
+            <li>- Verhit voor de vulling van de burrito's de olie in een grote koekenpan of stoofpan en voeg ui, chilipepers en knoflook toe. Bak ze in 5-6 minuten zacht en voeg de komijn en koriander toe. Draai het vuur hoger en doe het gehakt erbij. Laat het een beetje kleuren en roer om alles goed te mengen.</li>
+            <li>- Voeg tomatenpuree toe, breng op smaak met zout en peper en voeg de bouillon, tomaten en suiker toe. Laat dit 15-20 minuten bakken terwijl je de guacamole maakt. Draai het vuur laag en voeg kidneybonen toe. Doe er wat water bij als het te droog wordt, maar niet te veel.</li>
+            <li>- Snijd voor de guacamole de avocado's doormidden, verwijder de pit en lepel het vruchtvlees eruit. Voeg het knoflook, rode chilipeper en limoenrasp toe. Prak met de achterkant van een vork de avocado tot een grove puree. Voeg de verse koriander en gemalen komijn toe, breng op smaak en voeg de olijfolie toe. Roer en zet apart. Je kunt dit ook in de blender doen.</li>
+            <li>- Serveer het gehakt met warme tortilla's, guacamole, salsa, zure room, geraspte kaas en jalapeñopepers.</li>
+        </ul>
+    </article>
+    <section class="bereidingburritos">
+        <img class="burritosbereiding" src="../img/burritobereiding1.jpg" alt="bereiding1">
+        <img class="burritosbereiding" src="../img/burritobereiding2.jpg" alt="bereiding2">
+        <img class="burritosbereiding" src="../img/burritobereiding3.jpg" alt="bereiding3">
+        <img class="burritosbereiding" src="../img/burritobereiding4.jpg" alt="bereiding4">
+    </section>
+    <footer class="padding">
+        <div class="row">
+            <div class="col-md-2">
+                <ul>
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../Concerten/BierHierO3.html">Concerten</a></li>
+                    <li><a href="../Sport/BierHierO4.html">Sport</a></li>
+                    <li><a class="active" href="recepten.html">Recepten</a></li>
+                    <li><a href="../Contact.html">Contact</a></li>
+                    <li><a href="../Overons.html">Over Ons</a></li>
+                </ul>
+            </div>
+            <div id="footerctekst" class="col-md-8">
+                <p> Copyright &copy; roc-dev.com 2017<br>10/10 IGN</p>
+            </div>
+            <div class="col-md-2"><img id="bier" src="../img/bier.png" alt=""></div>
+        </div>
+    </footer>
 </div>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"
+        integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"
+        integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ"
+        crossorigin="anonymous"></script>
 </body>
 </html>
