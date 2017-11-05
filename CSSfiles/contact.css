@@ -89,12 +89,12 @@ img {
 
 
 
-@media all and (min-width: 1200px) {
-    .wrapper{
-        width: 1200px;
-        margin: auto;
-    }
+
+.wrapper{
+    width: 1200px;
+    margin: auto;
 }
+
 
 
 footer ul {
