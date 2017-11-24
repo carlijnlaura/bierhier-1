@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9d1063c-e264-4405-82f8-32a2a647d9ff" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CSSfiles/index.css" afterPath="$PROJECT_DIR$/CSSfiles/IndexOverons.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSSfiles/ReceptenCSS/recepten.css" afterPath="$PROJECT_DIR$/CSSfiles/ReceptenCSS/recepten.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSSfiles/contact.css" afterPath="$PROJECT_DIR$/CSSfiles/contact.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Concerten/BierHierO3.html" afterPath="$PROJECT_DIR$/Concerten/BierHierO3.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Concerten/BierHierO3a.html" afterPath="$PROJECT_DIR$/Concerten/BierHierO3a.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Concerten/BierHierO3b.html" afterPath="$PROJECT_DIR$/Concerten/BierHierO3b.html" />
@@ -40,94 +37,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="burritos.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSSfiles/ReceptenCSS/burritos.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-584">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BierHierO3c.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3c.html">
+      <file leaf-file-name="recepten.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReceptenHTML/recepten.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+              <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#11990#11996#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IndexOverons.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSSfiles/IndexOverons.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sportconcerten.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSSfiles/sportconcerten.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1966">
-              <caret line="120" column="1" lean-forward="false" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CSSfiles/contact.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BierHierO3d.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3d.html">
+      <file leaf-file-name="burritos.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReceptenHTML/burritos.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BierHierO3e.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3e.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recepten.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSSfiles/ReceptenCSS/recepten.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
               <folding />
             </state>
           </provider>
@@ -137,7 +61,77 @@
         <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3f.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+              <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BierHierO3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="1952" lean-forward="false" selection-start-line="5" selection-start-column="1952" selection-end-line="5" selection-end-column="1952" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BierHierO3e.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3e.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BierHierO3d.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3d.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Overons.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Overons.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="84" column="136" lean-forward="false" selection-start-line="84" selection-start-column="136" selection-end-line="84" selection-end-column="136" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BierHierO3c.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3c.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BierHierO3b.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3b.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BierHierO3a.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3a.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
               <folding />
             </state>
           </provider>
@@ -185,32 +179,33 @@
         <option value="$PROJECT_DIR$/CSSfiles/ReceptenCSS/burritos.css" />
         <option value="$PROJECT_DIR$/CSSfiles/ReceptenCSS/spaghetti.css" />
         <option value="$PROJECT_DIR$/CSSfiles/ReceptenCSS/stamppot.css" />
-        <option value="$PROJECT_DIR$/Overons.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/Contact.html" />
-        <option value="$PROJECT_DIR$/ReceptenHTML/burritos.html" />
-        <option value="$PROJECT_DIR$/ReceptenHTML/recepten.html" />
-        <option value="$PROJECT_DIR$/ReceptenHTML/spaghetti.html" />
-        <option value="$PROJECT_DIR$/ReceptenHTML/stamppot.html" />
-        <option value="$PROJECT_DIR$/Sport/BierHierO4.html" />
-        <option value="$PROJECT_DIR$/Sport/BierHierO4a.html" />
-        <option value="$PROJECT_DIR$/Sport/BierHierO4b.html" />
-        <option value="$PROJECT_DIR$/Sport/BierHierO4c.html" />
-        <option value="$PROJECT_DIR$/Sport/BierHierO4d.html" />
-        <option value="$PROJECT_DIR$/Sport/BierHierO4e.html" />
-        <option value="$PROJECT_DIR$/Sport/BierHierO4f.html" />
-        <option value="$PROJECT_DIR$/Sport/BierHierO4g.html" />
-        <option value="$PROJECT_DIR$/Sport/BierHierO4i.html" />
-        <option value="$PROJECT_DIR$/Sport/BierHierO4h.html" />
-        <option value="$PROJECT_DIR$/Concerten/BierHierO3.html" />
-        <option value="$PROJECT_DIR$/Concerten/BierHierO3a.html" />
-        <option value="$PROJECT_DIR$/Concerten/BierHierO3b.html" />
-        <option value="$PROJECT_DIR$/Concerten/BierHierO3c.html" />
-        <option value="$PROJECT_DIR$/Concerten/BierHierO3d.html" />
-        <option value="$PROJECT_DIR$/Concerten/BierHierO3e.html" />
-        <option value="$PROJECT_DIR$/Concerten/BierHierO3f.html" />
         <option value="$PROJECT_DIR$/CSSfiles/contact.css" />
         <option value="$PROJECT_DIR$/CSSfiles/ReceptenCSS/recepten.css" />
+        <option value="$PROJECT_DIR$/CSSfiles/IndexOverons.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Contact.html" />
+        <option value="$PROJECT_DIR$/Sport/BierHierO4i.html" />
+        <option value="$PROJECT_DIR$/Sport/BierHierO4h.html" />
+        <option value="$PROJECT_DIR$/Sport/BierHierO4g.html" />
+        <option value="$PROJECT_DIR$/Sport/BierHierO4f.html" />
+        <option value="$PROJECT_DIR$/Sport/BierHierO4e.html" />
+        <option value="$PROJECT_DIR$/Sport/BierHierO4d.html" />
+        <option value="$PROJECT_DIR$/Sport/BierHierO4c.html" />
+        <option value="$PROJECT_DIR$/Sport/BierHierO4b.html" />
+        <option value="$PROJECT_DIR$/Sport/BierHierO4a.html" />
+        <option value="$PROJECT_DIR$/Sport/BierHierO4.html" />
+        <option value="$PROJECT_DIR$/ReceptenHTML/stamppot.html" />
+        <option value="$PROJECT_DIR$/ReceptenHTML/spaghetti.html" />
+        <option value="$PROJECT_DIR$/ReceptenHTML/recepten.html" />
+        <option value="$PROJECT_DIR$/ReceptenHTML/burritos.html" />
+        <option value="$PROJECT_DIR$/Concerten/BierHierO3f.html" />
+        <option value="$PROJECT_DIR$/Concerten/BierHierO3e.html" />
+        <option value="$PROJECT_DIR$/Concerten/BierHierO3d.html" />
+        <option value="$PROJECT_DIR$/Concerten/BierHierO3c.html" />
+        <option value="$PROJECT_DIR$/Concerten/BierHierO3b.html" />
+        <option value="$PROJECT_DIR$/Concerten/BierHierO3a.html" />
+        <option value="$PROJECT_DIR$/Concerten/BierHierO3.html" />
+        <option value="$PROJECT_DIR$/Overons.html" />
       </list>
     </option>
   </component>
@@ -222,10 +217,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="198" />
+    <option name="y" value="99" />
     <option name="width" value="1395" />
-    <option name="height" value="1000" />
+    <option name="height" value="1012" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -243,7 +238,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,17 +253,6 @@
             <path>
               <item name="OpdrachtBier" type="b2602c69:ProjectViewProjectNode" />
               <item name="OpdrachtBier" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="CSSfiles" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="OpdrachtBier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpdrachtBier" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="CSSfiles" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ReceptenCSS" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="OpdrachtBier" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpdrachtBier" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="ReceptenHTML" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -281,13 +264,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Responsive" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -313,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.BierHierO3.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="BierHierO3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OpdrachtBier/Concerten/BierHierO3.html" />
     <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OpdrachtBier/index.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Responsive/index.html" />
@@ -326,9 +310,9 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.BierHierO3.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.stamppot.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.BierHierO3.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.stamppot.html" />
         <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -363,7 +347,13 @@
       <workItem from="1509717618353" duration="1717000" />
       <workItem from="1509734162533" duration="2949000" />
       <workItem from="1509840767982" duration="353000" />
-      <workItem from="1509877294148" duration="5593000" />
+      <workItem from="1509877294148" duration="6610000" />
+      <workItem from="1510134913082" duration="211000" />
+      <workItem from="1510822092716" duration="1649000" />
+      <workItem from="1511201967413" duration="327000" />
+      <workItem from="1511202846405" duration="159000" />
+      <workItem from="1511296979185" duration="36000" />
+      <workItem from="1511524483983" duration="386000" />
     </task>
     <task id="LOCAL-00001" summary="Frst Committ">
       <created>1509707932370</created>
@@ -414,16 +404,23 @@
       <option name="project" value="LOCAL" />
       <updated>1509887872045</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Jabir tags toegevoed. Meta res links toegevoegd.">
+      <created>1509889273658</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1509889273658</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72041000" />
+    <option name="totallyTimeSpent" value="75826000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14739583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10572917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -454,7 +451,8 @@
     <MESSAGE value="footer code fout gefixt (verkeerde hover)" />
     <MESSAGE value="Recepten toegevoegd, links aangepast. logo verandert." />
     <MESSAGE value="img toegevoegd" />
-    <option name="LAST_COMMIT_MESSAGE" value="img toegevoegd" />
+    <MESSAGE value="Jabir tags toegevoed. Meta res links toegevoegd." />
+    <option name="LAST_COMMIT_MESSAGE" value="Jabir tags toegevoed. Meta res links toegevoegd." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -467,7 +465,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#11990#11996#0" expanded="true" />
+            <element signature="e#13943#13949#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -547,7 +545,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="427" column="18" lean-forward="false" selection-start-line="427" selection-start-column="18" selection-end-line="427" selection-end-column="18" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSSfiles/ReceptenCSS/burritos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSSfiles/ReceptenCSS/recepten.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -555,62 +566,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSSfiles/ReceptenCSS/stamppot.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
+        <state relative-caret-position="187">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSSfiles/contact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1513">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSSfiles/sportconcerten.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="120" column="1" lean-forward="false" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Overons.html">
+    <entry file="file://$PROJECT_DIR$/CSSfiles/IndexOverons.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="57" lean-forward="false" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
+        <state relative-caret-position="867">
+          <caret line="51" column="11" lean-forward="false" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReceptenHTML/burritos.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+        <state relative-caret-position="187">
+          <caret line="11" column="1952" lean-forward="false" selection-start-line="11" selection-start-column="1952" selection-end-line="11" selection-end-column="1952" />
           <folding>
-            <element signature="e#6943#6949#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReceptenHTML/recepten.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-          <folding>
-            <element signature="e#7297#7303#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReceptenHTML/spaghetti.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-          <folding>
-            <element signature="e#6367#6373#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReceptenHTML/stamppot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-          <folding>
-            <element signature="e#5921#5927#0" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#13943#13949#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -618,93 +613,7 @@
     <entry file="file://$PROJECT_DIR$/Contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="74" lean-forward="false" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="74" lean-forward="false" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
-          <folding>
-            <element signature="e#7464#7470#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4a.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#6277#6283#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4b.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5985#5991#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4c.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5974#5980#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4d.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5970#5976#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4e.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4f.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4g.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+          <caret line="5" column="1952" lean-forward="false" selection-start-line="5" selection-start-column="1952" selection-end-line="5" selection-end-column="1952" />
           <folding />
         </state>
       </provider>
@@ -712,7 +621,7 @@
     <entry file="file://$PROJECT_DIR$/Sport/BierHierO4i.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
           <folding />
         </state>
       </provider>
@@ -720,90 +629,103 @@
     <entry file="file://$PROJECT_DIR$/Sport/BierHierO4h.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3.html">
+    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4g.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4f.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4e.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4d.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4c.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4b.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sport/BierHierO4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="74" lean-forward="false" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
+          <caret line="5" column="1952" lean-forward="false" selection-start-line="5" selection-start-column="1952" selection-end-line="5" selection-end-column="1952" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3a.html">
+    <entry file="file://$PROJECT_DIR$/ReceptenHTML/stamppot.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3b.html">
+    <entry file="file://$PROJECT_DIR$/ReceptenHTML/spaghetti.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3c.html">
+    <entry file="file://$PROJECT_DIR$/ReceptenHTML/recepten.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3d.html">
+    <entry file="file://$PROJECT_DIR$/ReceptenHTML/burritos.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3e.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#11990#11996#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSSfiles/sportconcerten.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1966">
-          <caret line="120" column="1" lean-forward="false" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSSfiles/contact.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSSfiles/IndexOverons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
           <folding />
         </state>
       </provider>
@@ -811,23 +733,63 @@
     <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3f.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="74" lean-forward="false" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSSfiles/ReceptenCSS/burritos.css">
+    <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3e.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-584">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="51">
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSSfiles/ReceptenCSS/recepten.css">
+    <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3d.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3c.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3b.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1952" lean-forward="false" selection-start-line="3" selection-start-column="1952" selection-end-line="3" selection-end-column="1952" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concerten/BierHierO3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1952" lean-forward="false" selection-start-line="5" selection-start-column="1952" selection-end-line="5" selection-end-column="1952" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Overons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="84" column="136" lean-forward="false" selection-start-line="84" selection-start-column="136" selection-end-line="84" selection-end-column="136" />
           <folding />
         </state>
       </provider>
